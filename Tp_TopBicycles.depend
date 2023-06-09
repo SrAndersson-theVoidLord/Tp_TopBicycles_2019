@@ -1,0 +1,343 @@
+# depslib dependency file v1.0
+1571249178 source:e:\tp laboratorio\tp_topbicycles\main.cpp
+	<iostream>
+	<cstdio>
+	<string>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<string.h>
+	<cstdlib>
+	<wctype.h>
+	<cstring>
+	<locale.h>
+	<ctime>
+	"headers/Rlutil.h"
+	"headers/visual_interface.h"
+	"headers/class_Bicicletas.h"
+	"headers/class_Clientes.h"
+	"headers/class_Alquileres.h"
+	"headers/class_Empleados.h"
+	"headers/class_EnReparacion.h"
+	"headers/menus.h"
+
+1570658518 e:\tp laboratorio\tp_topbicycles\headers\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1570658898 e:\tp laboratorio\tp_topbicycles\headers\visual_interface.h
+	<stdio.h>
+	<windows.h>
+
+1571251848 e:\tp laboratorio\tp_topbicycles\headers\menus.h
+
+1570659992 e:\tp laboratorio\tp_topbicycles\headers\classes.h
+
+1571251208 e:\tp laboratorio\tp_topbicycles\headers\class_bicicletas.h
+
+1571251208 e:\tp laboratorio\tp_topbicycles\headers\class_clientes.h
+
+1571251208 e:\tp laboratorio\tp_topbicycles\headers\class_alquileres.h
+
+1571251848 e:\tp laboratorio\tp_topbicycles\headers\class_empleados.h
+
+1571245554 e:\tp laboratorio\tp_topbicycles\headers\class_enreparacion.h
+
+1572543272 source:c:\users\usuario\documents\github\tp laboratorio\tp_topbicycles\main.cpp
+	<iostream>
+	<cstdio>
+	<string>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<string.h>
+	<cstdlib>
+	<wctype.h>
+	<cstring>
+	<locale.h>
+	<ctime>
+	"headers/Rlutil.h"
+	"headers/visual_interface.h"
+	"headers/class_Archivo.h"
+	"headers/fecha.h"
+	"headers/class_Bicicletas.h"
+	"headers/class_Clientes.h"
+	"headers/class_Alquileres.h"
+	"headers/class_Empleados.h"
+	"headers/class_EnReparacion.h"
+	"headers/menus.h"
+
+1572543272 c:\users\usuario\documents\github\tp laboratorio\tp_topbicycles\headers\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1572543272 c:\users\usuario\documents\github\tp laboratorio\tp_topbicycles\headers\visual_interface.h
+	<stdio.h>
+	<windows.h>
+
+1572543272 c:\users\usuario\documents\github\tp laboratorio\tp_topbicycles\headers\class_bicicletas.h
+
+1572543272 c:\users\usuario\documents\github\tp laboratorio\tp_topbicycles\headers\class_clientes.h
+
+1572549845 c:\users\usuario\documents\github\tp laboratorio\tp_topbicycles\headers\class_alquileres.h
+
+1572545812 c:\users\usuario\documents\github\tp laboratorio\tp_topbicycles\headers\class_empleados.h
+
+1572549805 c:\users\usuario\documents\github\tp laboratorio\tp_topbicycles\headers\class_enreparacion.h
+
+1572543272 c:\users\usuario\documents\github\tp laboratorio\tp_topbicycles\headers\menus.h
+
+1572543272 c:\users\usuario\documents\github\tp laboratorio\tp_topbicycles\headers\fecha.h
+
+1574705485 source:c:\users\theco\documents\github\tp-laboratorio\tp_topbicycles\main.cpp
+	<iostream>
+	<cstdio>
+	<string>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<string.h>
+	<cstdlib>
+	<wctype.h>
+	<cstring>
+	<locale.h>
+	<ctime>
+	"headers/User_Interface/Rlutil.h"
+	"headers/User_Interface/class_Loading_Bar.h"
+	"headers/User_Interface/class_Window.h"
+	"headers/User_Interface/class_Button.h"
+	"headers/User_Interface/class_User_Interface.h"
+	"headers/User_Interface/visual_interface.h"
+	"headers/System_Classes/class_Archivo.h"
+	"headers/System_Classes/fecha.h"
+	"headers/System_Classes/class_Bicicletas.h"
+	"headers/System_Classes/class_Clientes.h"
+	"headers/System_Classes/class_Empleados.h"
+	"headers/System_Classes/class_EnReparacion.h"
+	"headers/System_Classes/class_Alquileres.h"
+	"headers/costoAlquiler.h"
+	"headers/System_Classes/Reportes.h"
+	"headers/menus.h"
+
+1572617382 c:\users\theco\documents\github\tp-laboratorio\tp_topbicycles\headers\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1572617382 c:\users\theco\documents\github\tp-laboratorio\tp_topbicycles\headers\visual_interface.h
+	<stdio.h>
+	<windows.h>
+
+1572617382 c:\users\theco\documents\github\tp-laboratorio\tp_topbicycles\headers\class_archivo.h
+
+1573000730 c:\users\theco\documents\github\tp-laboratorio\tp_topbicycles\headers\fecha.h
+
+1572617382 c:\users\theco\documents\github\tp-laboratorio\tp_topbicycles\headers\class_bicicletas.h
+
+1572617382 c:\users\theco\documents\github\tp-laboratorio\tp_topbicycles\headers\class_clientes.h
+
+1572617382 c:\users\theco\documents\github\tp-laboratorio\tp_topbicycles\headers\class_alquileres.h
+
+1572617382 c:\users\theco\documents\github\tp-laboratorio\tp_topbicycles\headers\class_empleados.h
+
+1572617382 c:\users\theco\documents\github\tp-laboratorio\tp_topbicycles\headers\class_enreparacion.h
+
+1574705485 c:\users\theco\documents\github\tp-laboratorio\tp_topbicycles\headers\menus.h
+
+1572543272 c:\users\usuario\documents\github\tp laboratorio\tp_topbicycles\headers\class_archivo.h
+
+1575391498 source:c:\users\usuario\documents\github\tp-laboratorio\tp_topbicycles\main.cpp
+	<iostream>
+	<cstdio>
+	<string>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<string.h>
+	<cstdlib>
+	<wctype.h>
+	<cstring>
+	<locale.h>
+	<ctime>
+	"headers/User_Interface/Rlutil.h"
+	"headers/User_Interface/class_Loading_Bar.h"
+	"headers/User_Interface/class_Window.h"
+	"headers/User_Interface/class_Button.h"
+	"headers/User_Interface/class_User_Interface.h"
+	"headers/User_Interface/visual_interface.h"
+	"headers/System_Classes/class_Archivo.h"
+	"headers/System_Classes/fecha.h"
+	"headers/System_Classes/class_Bicicletas.h"
+	"headers/System_Classes/class_Clientes.h"
+	"headers/System_Classes/class_Empleados.h"
+	"headers/System_Classes/class_EnReparacion.h"
+	"headers/System_Classes/class_Alquileres.h"
+	"headers/costoAlquiler.h"
+	"headers/System_Classes/Reportes.h"
+	"headers/menus.h"
+
+1572611864 c:\users\usuario\documents\github\tp-laboratorio\tp_topbicycles\headers\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1572611864 c:\users\usuario\documents\github\tp-laboratorio\tp_topbicycles\headers\visual_interface.h
+	<stdio.h>
+	<windows.h>
+
+1572611864 c:\users\usuario\documents\github\tp-laboratorio\tp_topbicycles\headers\class_archivo.h
+
+1572611864 c:\users\usuario\documents\github\tp-laboratorio\tp_topbicycles\headers\fecha.h
+
+1572616487 c:\users\usuario\documents\github\tp-laboratorio\tp_topbicycles\headers\class_bicicletas.h
+
+1572616881 c:\users\usuario\documents\github\tp-laboratorio\tp_topbicycles\headers\class_clientes.h
+
+1572611864 c:\users\usuario\documents\github\tp-laboratorio\tp_topbicycles\headers\class_alquileres.h
+
+1572616882 c:\users\usuario\documents\github\tp-laboratorio\tp_topbicycles\headers\class_empleados.h
+
+1572611864 c:\users\usuario\documents\github\tp-laboratorio\tp_topbicycles\headers\class_enreparacion.h
+
+1575541837 c:\users\usuario\documents\github\tp-laboratorio\tp_topbicycles\headers\menus.h
+
+1574705485 c:\users\theco\documents\github\tp-laboratorio\tp_topbicycles\headers\costoalquiler.h
+
+1574705485 c:\users\theco\documents\github\tp-laboratorio\tp_topbicycles\headers\user_interface\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1574705485 c:\users\theco\documents\github\tp-laboratorio\tp_topbicycles\headers\user_interface\visual_interface.h
+	<stdio.h>
+	<windows.h>
+
+1574705485 c:\users\theco\documents\github\tp-laboratorio\tp_topbicycles\headers\system_classes\class_archivo.h
+
+1574705485 c:\users\theco\documents\github\tp-laboratorio\tp_topbicycles\headers\system_classes\fecha.h
+
+1574705485 c:\users\theco\documents\github\tp-laboratorio\tp_topbicycles\headers\system_classes\class_bicicletas.h
+
+1574875023 c:\users\theco\documents\github\tp-laboratorio\tp_topbicycles\headers\system_classes\class_clientes.h
+
+1574875023 c:\users\theco\documents\github\tp-laboratorio\tp_topbicycles\headers\system_classes\class_alquileres.h
+	"../costoAlquiler.h"
+
+1574705485 c:\users\theco\documents\github\tp-laboratorio\tp_topbicycles\headers\system_classes\class_empleados.h
+
+1574705485 c:\users\theco\documents\github\tp-laboratorio\tp_topbicycles\headers\system_classes\class_enreparacion.h
+
+1574705485 c:\users\theco\documents\github\tp-laboratorio\tp_topbicycles\headers\user_interface\class_loading_bar.h
+
+1574705485 c:\users\theco\documents\github\tp-laboratorio\tp_topbicycles\headers\user_interface\class_window.h
+	<stdio.h>
+	<windows.h>
+
+1574705485 c:\users\theco\documents\github\tp-laboratorio\tp_topbicycles\headers\user_interface\class_button.h
+	<stdio.h>
+	<windows.h>
+
+1574705485 c:\users\theco\documents\github\tp-laboratorio\tp_topbicycles\headers\user_interface\class_user_interface.h
+
+1575391498 c:\users\usuario\documents\github\tp-laboratorio\tp_topbicycles\headers\user_interface\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1575391498 c:\users\usuario\documents\github\tp-laboratorio\tp_topbicycles\headers\user_interface\class_loading_bar.h
+
+1575391498 c:\users\usuario\documents\github\tp-laboratorio\tp_topbicycles\headers\user_interface\class_window.h
+	<stdio.h>
+	<windows.h>
+
+1575391498 c:\users\usuario\documents\github\tp-laboratorio\tp_topbicycles\headers\user_interface\class_button.h
+	<stdio.h>
+	<windows.h>
+
+1575391498 c:\users\usuario\documents\github\tp-laboratorio\tp_topbicycles\headers\user_interface\class_user_interface.h
+
+1575391498 c:\users\usuario\documents\github\tp-laboratorio\tp_topbicycles\headers\user_interface\visual_interface.h
+	<stdio.h>
+	<windows.h>
+
+1575391498 c:\users\usuario\documents\github\tp-laboratorio\tp_topbicycles\headers\system_classes\class_archivo.h
+
+1575391498 c:\users\usuario\documents\github\tp-laboratorio\tp_topbicycles\headers\system_classes\fecha.h
+
+1575391498 c:\users\usuario\documents\github\tp-laboratorio\tp_topbicycles\headers\system_classes\class_bicicletas.h
+
+1575391498 c:\users\usuario\documents\github\tp-laboratorio\tp_topbicycles\headers\system_classes\class_clientes.h
+
+1575549036 c:\users\usuario\documents\github\tp-laboratorio\tp_topbicycles\headers\system_classes\class_alquileres.h
+	"../costoAlquiler.h"
+
+1575391498 c:\users\usuario\documents\github\tp-laboratorio\tp_topbicycles\headers\costoalquiler.h
+
+1575391498 c:\users\usuario\documents\github\tp-laboratorio\tp_topbicycles\headers\system_classes\class_empleados.h
+
+1575546754 c:\users\usuario\documents\github\tp-laboratorio\tp_topbicycles\headers\system_classes\class_enreparacion.h
+
+1574705485 c:\users\theco\documents\github\tp-laboratorio\tp_topbicycles\headers\system_classes\reportes.h
+
+1575391498 c:\users\usuario\documents\github\tp-laboratorio\tp_topbicycles\headers\system_classes\reportes.h
+
